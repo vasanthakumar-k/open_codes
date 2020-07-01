@@ -1,2 +1,2 @@
 # open_codes
-Usual programs for public users
+Open projects/programs for public users
